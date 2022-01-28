@@ -17,6 +17,7 @@
 // @version     1.0
 // @author      -
 // @description 28/01/2022, 21:20:00
+// @downloadURL https://github.com/berchierm/Digitec-x-PassMark-GPU-CPU-Score/raw/master/Digitec-x-PassMark-GPU-CPU-Score.user.js
 // ==/UserScript==
 
 const LOG_ENABLED = false;
